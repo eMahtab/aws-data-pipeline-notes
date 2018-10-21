@@ -11,3 +11,6 @@ https://docs.google.com/document/d/1-9roUmkRfp-URdMbID8oEtCRBqSukzolEncs1Cpyxjw/
 
 # Data Pipeline - Exporting data from DynamoDB Table
 https://docs.google.com/document/d/17XkBbZR_TsuDC8fhe3sR3lU6izpK6aFwLdc6kCcVeXQ/edit?usp=sharing
+
+# Data Pipeline - Process Data using EMR with Hadoop Streaming
+https://docs.google.com/document/d/1x4GZriUgxRhRnovT7gphtLECBfGxPoBG45Z3SYP06Xo/edit?usp=sharing
