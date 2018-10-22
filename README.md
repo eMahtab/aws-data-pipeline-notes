@@ -14,3 +14,6 @@ https://docs.google.com/document/d/17XkBbZR_TsuDC8fhe3sR3lU6izpK6aFwLdc6kCcVeXQ/
 
 # Data Pipeline - Process Data using EMR with Hadoop Streaming
 https://docs.google.com/document/d/1x4GZriUgxRhRnovT7gphtLECBfGxPoBG45Z3SYP06Xo/edit?usp=sharing
+
+# Data Pipeline - Copying CSV file between S3 Buckets
+https://docs.google.com/document/d/1AKCvm4tcboCCc3IrMSkLsZzld5MPCvHfwNekQ4WVW9w/edit?usp=sharing
